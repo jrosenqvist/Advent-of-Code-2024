@@ -2,7 +2,6 @@ package day1
 
 import "core:fmt"
 import "core:slice"
-import "core:sort"
 import "core:strconv"
 import "core:strings"
 
